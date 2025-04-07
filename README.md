@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/younessdif/younessdif/blob/main/%D8%AA%D9%86%D8%B2%D9%8A%D9%84-removebg-preview%20(3).png" width="30%">
+
+<img align="right" src="https://github.com/younessdif/younessdif/blob/main/%D8%AA%D9%86%D8%B2%D9%8A%D9%84-removebg-preview%20(3).png" style="border-radius: 50%;" width="30%">
 
 <h1>
   Hi There I'm Youness Ech-chad
